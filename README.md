@@ -7,7 +7,7 @@ Through this analysis, we have a detailed understanding of the number of success
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![imange][https://github.com/YutaiLee/Kickstarters_Analysis/blob/main/Theater_Outcomes_vs_Launch.png]
+![imange](https://github.com/YutaiLee/Kickstarters_Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
