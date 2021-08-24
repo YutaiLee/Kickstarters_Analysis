@@ -12,5 +12,9 @@ Through this analysis, we have a detailed understanding of the number of success
 ### Analysis of Outcomes Based on Goals
 ![image](https://github.com/YutaiLee/Kickstarters_Analysis/blob/main/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
-
+For the chart of Outcomes Base on Launch Date, no difficulties occurred. For the chart of Based on Goal, the more difficult part is to determine the accurate analysis of the contents of each Countifs function. Fortunately, this chart can be completed by carefully checking the contents of each function as long as it takes more time.
 ## Results
+1. From the chart of the Theater Outcomes by Launch Date, we can see that the success rate is higher in May and June. However, the number of failed campaigns launched in May, June, July, August and October was roughly the same.
+2. From the chart, we can find that the percentage Failed is higher in 20000 to 24999, 25000 to 29999, 30000 to 34999, 45000 to 499999, and greater than 50000. In addition, the percentage canceled is always zero
+3. This data set is presented as a percentage, and there is no way to know the true amount. In fact, there are many materials with a small total, which will lead to inaccurate judgments when making decisions.
+4. 
