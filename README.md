@@ -18,4 +18,4 @@ For the chart of Outcomes Base on Launch Date, no difficulties occurred. For the
 2. From the chart, we can find that the percentage Failed is higher in 20000 to 24999, 25000 to 29999, 30000 to 34999, 45000 to 499999, and greater than 50000. In addition, the percentage canceled is always zero
 3. This data set is presented as a percentage, and there is no way to know the true amount. In fact, there are many materials with a small total, which will lead to inaccurate judgments when making decisions.
 4. We can create a new chart, use number to replace persentage, and use two charts to compare, we can understand the current situation and make the best strategy.
-!
+![image](https://github.com/YutaiLee/Kickstarters_Analysis/blob/main/Outcomes_vs_Goal(Number).png)
